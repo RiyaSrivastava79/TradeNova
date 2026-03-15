@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="104" viewBox="0 0 700 104" role="img" aria-labelledby="title desc">
+	<title id="title">TradeNova logo</title>
+	<desc id="desc">A trade-themed TradeNova logo with candlestick bars and a rising arrow.</desc>
+	<defs>
+		<linearGradient id="tnGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+			<stop offset="0%" stop-color="#0b5fd7" />
+			<stop offset="100%" stop-color="#0ea5e9" />
+		</linearGradient>
+	</defs>
+	<rect width="700" height="104" fill="none" />
+	<g transform="translate(8 12)">
+		<rect x="6" y="18" width="8" height="36" rx="4" fill="#0ea5e9" />
+		<rect x="22" y="8" width="8" height="52" rx="4" fill="#0b5fd7" />
+		<rect x="38" y="28" width="8" height="28" rx="4" fill="#16a34a" />
+		<path d="M0 56 L20 38 L32 44 L52 16 L70 22" fill="none" stroke="#f97316" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+		<path d="M63 12 L76 20 L64 28" fill="none" stroke="#f97316" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+		<rect x="0" y="0" width="82" height="72" rx="18" fill="url(#tnGradient)" opacity="0.08" />
+	</g>
+	<text x="104" y="63" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2.2" fill="#2563eb">TRADENOVA</text>
+</svg>
